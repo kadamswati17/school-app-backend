@@ -12,7 +12,7 @@
     <groupId>com.demo</groupId>
     <artifactId>empcrm</artifactId> <!-- Change the artifactId to empcrm -->
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>empcrm</name> <!-- Change the project name to empcrm -->
     <description>empcrm project</description>
